@@ -51,6 +51,9 @@
             ".mbr-section-title": {
               "text-align": "center",
               "color": "#34b6e7"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "header1-5",
@@ -206,7 +209,7 @@
               "newWindow": false
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KKV</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KKV</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-d\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery4-9\" aria-expanded=\"false\">PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box1-a\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-l\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -385,7 +388,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<i>(+237) 677494356 </i>&nbsp; &nbsp; Copyright (c) 2016 <b>Valdese Kamdem</b> personal porfolio. &nbsp; &nbsp; &nbsp;<b><i>valdesekamdem@gmail.com</i></b>"
+          "text": "<i>(+237) 677494356 </i>&nbsp; &nbsp;Copyright (c) 2016 <b>Valdese Kamdem</b> personal porfolio. &nbsp; &nbsp;<b><i>valdesekamdem@gmail.com</i></b>"
         },
         {
           "_inherit": "social-buttons2",

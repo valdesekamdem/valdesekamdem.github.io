@@ -424,6 +424,9 @@ h6,
   text-align: center;
   color: #34b6e7;
 }
+#header1-5 .mbr-section-title SPAN {
+  color: #ffffff;
+}
 #msg-box3-d .mbr-section-title,
 #msg-box3-d p {
   color: #000;
